@@ -1,1 +1,2 @@
-This is before a branch is created
+This is before a branch is create
+Added this statement in new branch and will merge this
